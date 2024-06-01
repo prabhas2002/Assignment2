@@ -17,11 +17,5 @@ The project is divided into two parts:
 
 2. **Knowledge Distillation**: In the second part, I use Knowledge Distillation to train a smaller RNN model for classification. Knowledge Distillation is a technique where a smaller (student) model is trained to mimic the behavior of the larger (teacher) model, in this case, the fine-tuned GPT-2 or GPT-2 Medium model. This results in a smaller, more efficient model that maintains a high level of performance.
 
-## Getting Started
 
-To get started with this project, clone the repository and install the necessary dependencies.
-
-```bash
-git clone https://github.com/prabhas2002/LoRA-and-KD-on-GPT2.git
-cd LoRA-and-KD-on-GPT2
-pip install -r requirements.txt
+To know more details about the project check the pdf provided and Assignmnet2 contain all the code for the project.
